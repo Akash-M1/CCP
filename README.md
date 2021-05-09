@@ -1,2 +1,2 @@
 # CCP
-Lab Program 
+Lab Programs
